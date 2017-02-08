@@ -4,7 +4,7 @@
 
 	<groupId>org.openmrs.module</groupId>
 	<artifactId>programOver</artifactId>
-	<version>0.21</version>
+	<version>0.3-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Program Statistics</name>
 	<description>Parent project for Program Statistics</description>
